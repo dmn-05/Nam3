@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\XayDung_MH_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E98AC13-B2C7-4E26-9DA7-362F9A198D29}|XayDung_MH_MVC\\XayDung_MH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\xaydung_mh_mvc\\xaydung_mh_mvc\\views\\nhat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E98AC13-B2C7-4E26-9DA7-362F9A198D29}|XayDung_MH_MVC\\XayDung_MH_MVC.csproj|solutionrelative:xaydung_mh_mvc\\views\\nhat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E98AC13-B2C7-4E26-9DA7-362F9A198D29}|XayDung_MH_MVC\\XayDung_MH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\xaydung_mh_mvc\\xaydung_mh_mvc\\controllers\\nhatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E98AC13-B2C7-4E26-9DA7-362F9A198D29}|XayDung_MH_MVC\\XayDung_MH_MVC.csproj|solutionrelative:xaydung_mh_mvc\\controllers\\nhatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E98AC13-B2C7-4E26-9DA7-362F9A198D29}|XayDung_MH_MVC\\XayDung_MH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\xaydung_mh_mvc\\xaydung_mh_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E98AC13-B2C7-4E26-9DA7-362F9A198D29}|XayDung_MH_MVC\\XayDung_MH_MVC.csproj|solutionrelative:xaydung_mh_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\XayDung_MH_MVC\\XayDung_MH_MVC\\Views\\Nhat\\Index.cshtml",
+              "RelativeDocumentMoniker": "XayDung_MH_MVC\\Views\\Nhat\\Index.cshtml",
+              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\XayDung_MH_MVC\\XayDung_MH_MVC\\Views\\Nhat\\Index.cshtml",
+              "RelativeToolTip": "XayDung_MH_MVC\\Views\\Nhat\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T07:30:31.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhatController.cs",
+              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\XayDung_MH_MVC\\XayDung_MH_MVC\\Controllers\\NhatController.cs",
+              "RelativeDocumentMoniker": "XayDung_MH_MVC\\Controllers\\NhatController.cs",
+              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\XayDung_MH_MVC\\XayDung_MH_MVC\\Controllers\\NhatController.cs",
+              "RelativeToolTip": "XayDung_MH_MVC\\Controllers\\NhatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:11:15.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\XayDung_MH_MVC\\XayDung_MH_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "XayDung_MH_MVC\\Program.cs",
+              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\XayDung_MH_MVC\\XayDung_MH_MVC\\Program.cs",
+              "RelativeToolTip": "XayDung_MH_MVC\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:02:36.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

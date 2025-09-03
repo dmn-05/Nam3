@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThuMH_MVC.props" />
+</Project>

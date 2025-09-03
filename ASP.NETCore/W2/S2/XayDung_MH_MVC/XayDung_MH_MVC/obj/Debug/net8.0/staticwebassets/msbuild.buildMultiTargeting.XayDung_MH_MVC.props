@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\XayDung_MH_MVC.props" />
+</Project>

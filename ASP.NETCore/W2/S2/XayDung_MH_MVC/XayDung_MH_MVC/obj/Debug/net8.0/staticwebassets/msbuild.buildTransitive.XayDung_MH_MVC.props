@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\XayDung_MH_MVC.props" />
+</Project>
