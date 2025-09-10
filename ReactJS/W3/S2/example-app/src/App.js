@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { createContext, useContext, useState } from 'react';
 const DataProduct = [
@@ -10,37 +9,72 @@ const DataProduct = [
   ];
 
 
+const EdittingProduct = createContext({product: null});
 function EditForm() {
-  const {product, onSave, onCancel}= useContext() 
+  const {product, onSave, onCancel}= useContext(EdittingProduct);
+  const [current, setCurrent] = useState(product);
 
   return (
-    0
+    <>
+      <h1>{product.id === 0?"New Product" : "Edit Product"}</h1>
+      <div className='editForm'>
+        <label>Name
+          <input type="text" value={current.name} onChange={e => setCurrent({...current, name: e.target.value})}/>
+        </label> <br/>
+        <label>Price
+          <input type="number" value={current.price} onChange={e => setCurrent({...current, price: e.target.valueAsNumber})}/>
+        </label> <br/>
+        <button onClick={e=> onSave(current)}>Lưu</button>
+        <button onClick={onCancel}>Hủy</button>
+      </div>
+    
+    </>
   );
 }
-const EdittingProduct = createContext({product: null});
 function App() {
-  const [products, setProduct] = useState(DataProduct);
-  const [editproduct, setEditProduct] = useState(null);
-  const [showallproduct, setShowAllProduct] = useState(false);
+  const [products, setProducts] = useState(DataProduct);
+  const [editProduct, setEditProducts] = useState(null);
+  // const [showallproduct, setShowAllProducts] = useState(false);
   
+  const handCreate = ()=>{
+    setEditProducts({id: 0, name: "", price: 0});
+  }
+
   const handDelete = (product) => {
     const newProducts = products.filter(p => p.id !== product.id);
-    setProduct(newProducts);
+    setProducts(newProducts);
   }
   const handleEdit = (product) => {
-    setEditProduct(product);
+    setEditProducts(product);
   }
   const handleSave = (product) => {
-    const newProducts = products.map(p => p.id === product.id ? product : p);
-    setProduct(newProducts);
-    setEditProduct(null);
-  }
+    if (product.id === 0) {
+      // Nếu chưa có sản phẩm nào thì id = 1
+      const newId = products.length > 0 
+        ? Math.max(...products.map(p => p.id)) + 1 
+        : 1;
+
+      product.id = newId;
+      setProducts([...products, product]);
+    } else {
+      // Cập nhật sản phẩm đã có
+      const newProducts = products.map(p => 
+        p.id === product.id ? product : p
+      );
+      setProducts(newProducts);
+    }
+
+    // Đóng form sau khi lưu
+    setEditProducts(null);
+  };
+
   const handleCancel = () => {
-    setEditProduct(null);
+    setEditProducts(null);
   }
 
   return (
-    <EdittingProduct.Provider value={{product: editproduct, onSave: handleSave, onCancel: handleCancel}}>
+    <EdittingProduct.Provider value={{product: editProduct, onSave: handleSave, onCancel: handleCancel}}>
+    {editProduct == null?
     <>
       {products.length === 0 ? (
         <h1>No Product</h1>
@@ -57,16 +91,27 @@ function App() {
               <tr key={product.id}>
                 {Object.keys(product).map((k) => <td key={k}>{product[k]}</td>)}
                 <td>
-                  <button className="edit">Edit</button>
-                  <button className="delete">Delete</button>
+                  <button className="edit" onClick={()=>handleEdit(product)}>Edit</button>
+                  <button className="delete" onClick={()=>handDelete(product)}>Delete</button>
                 </td>
               </tr>
             ))}
           </tbody>
+          {products.length > 0 && (
+            <tfoot>
+              <tr>
+                <th colSpan={Object.keys(products[0]).length + 1}>
+                  <button onClick={handCreate}>Create</button>
+                </th>
+              </tr>
+            </tfoot>
+          )}
         </table>
       )}
 
-    </>
+    </>:
+    <EditForm/>
+  }
     </EdittingProduct.Provider>
   );
 }
