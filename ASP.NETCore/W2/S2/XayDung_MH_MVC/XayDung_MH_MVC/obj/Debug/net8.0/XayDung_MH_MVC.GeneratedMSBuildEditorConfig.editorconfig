@@ -9,15 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = XayDung_MH_MVC
 build_property.RootNamespace = XayDung_MH_MVC
-build_property.ProjectDir = G:\0306231316\Nam3\ASP.NETCore\W2\S2\XayDung_MH_MVC\XayDung_MH_MVC\
+build_property.ProjectDir = D:\Nam3\ASP.NETCore\W2\S2\XayDung_MH_MVC\XayDung_MH_MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\0306231316\Nam3\ASP.NETCore\W2\S2\XayDung_MH_MVC\XayDung_MH_MVC
+build_property.MSBuildProjectDirectory = D:\Nam3\ASP.NETCore\W2\S2\XayDung_MH_MVC\XayDung_MH_MVC
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[G:/0306231316/Nam3/ASP.NETCore/W2/S2/XayDung_MH_MVC/XayDung_MH_MVC/Views/Nhat/Index.cshtml]
+[D:/Nam3/ASP.NETCore/W2/S2/XayDung_MH_MVC/XayDung_MH_MVC/Views/Nhat/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

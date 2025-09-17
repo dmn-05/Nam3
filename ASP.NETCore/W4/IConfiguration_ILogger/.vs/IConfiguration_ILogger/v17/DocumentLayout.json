@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam3\\ASP.NETCore\\W4\\IConfiguration_ILogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1BD900-A4A9-4DAB-8711-704992B89B7E}|IConfiguration_ILogger\\IConfiguration_ILogger.csproj|d:\\nam3\\asp.netcore\\w4\\iconfiguration_ilogger\\iconfiguration_ilogger\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1BD900-A4A9-4DAB-8711-704992B89B7E}|IConfiguration_ILogger\\IConfiguration_ILogger.csproj|solutionrelative:iconfiguration_ilogger\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1BD900-A4A9-4DAB-8711-704992B89B7E}|IConfiguration_ILogger\\IConfiguration_ILogger.csproj|d:\\nam3\\asp.netcore\\w4\\iconfiguration_ilogger\\iconfiguration_ilogger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F1BD900-A4A9-4DAB-8711-704992B89B7E}|IConfiguration_ILogger\\IConfiguration_ILogger.csproj|solutionrelative:iconfiguration_ilogger\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1BD900-A4A9-4DAB-8711-704992B89B7E}|IConfiguration_ILogger\\IConfiguration_ILogger.csproj|d:\\nam3\\asp.netcore\\w4\\iconfiguration_ilogger\\iconfiguration_ilogger\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1BD900-A4A9-4DAB-8711-704992B89B7E}|IConfiguration_ILogger\\IConfiguration_ILogger.csproj|solutionrelative:iconfiguration_ilogger\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W4\\IConfiguration_ILogger\\IConfiguration_ILogger\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "IConfiguration_ILogger\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W4\\IConfiguration_ILogger\\IConfiguration_ILogger\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "IConfiguration_ILogger\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T10:03:53.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W4\\IConfiguration_ILogger\\IConfiguration_ILogger\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IConfiguration_ILogger\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W4\\IConfiguration_ILogger\\IConfiguration_ILogger\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IConfiguration_ILogger\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:35:01.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W4\\IConfiguration_ILogger\\IConfiguration_ILogger\\appsettings.json",
+              "RelativeDocumentMoniker": "IConfiguration_ILogger\\appsettings.json",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W4\\IConfiguration_ILogger\\IConfiguration_ILogger\\appsettings.json",
+              "RelativeToolTip": "IConfiguration_ILogger\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T09:31:45.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|solutionrelative:product1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|e:\\0306231316\\nam3\\asp.netcore\\w1\\s2\\product1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|solutionrelative:product1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|e:\\0306231316\\nam3\\asp.netcore\\w1\\s2\\product1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|solutionrelative:product1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|e:\\0306231316\\nam3\\asp.netcore\\w1\\s2\\product1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|solutionrelative:product1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|e:\\0306231316\\nam3\\asp.netcore\\w1\\s2\\product1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|solutionrelative:product1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|e:\\0306231316\\nam3\\asp.netcore\\w1\\s2\\product1\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|solutionrelative:product1\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|e:\\0306231316\\nam3\\asp.netcore\\w1\\s2\\product1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C5AC80-F50D-4881-B4E2-A8722C96E909}|Product1\\Product1.csproj|solutionrelative:product1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\0306231316\\Nam3\\ASP.NETCore\\W1\\S2\\Product1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Product1\\Models\\Product.cs",
@@ -47,15 +47,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\0306231316\\Nam3\\ASP.NETCore\\W1\\S2\\Product1\\Views\\Test\\Index.cshtml",
               "RelativeDocumentMoniker": "Product1\\Views\\Test\\Index.cshtml",
               "ToolTip": "E:\\0306231316\\Nam3\\ASP.NETCore\\W1\\S2\\Product1\\Views\\Test\\Index.cshtml",
               "RelativeToolTip": "Product1\\Views\\Test\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T06:07:10.437Z"
+              "WhenOpened": "2025-08-27T06:07:10.437Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\0306231316\\Nam3\\ASP.NETCore\\W1\\S2\\Product1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Product1\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\0306231316\\Nam3\\ASP.NETCore\\W1\\S2\\Product1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Product1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T05:43:34.392Z",
               "EditorCaption": ""
@@ -91,7 +92,7 @@
               "RelativeDocumentMoniker": "Product1\\Program.cs",
               "ToolTip": "E:\\0306231316\\Nam3\\ASP.NETCore\\W1\\S2\\Product1\\Program.cs",
               "RelativeToolTip": "Product1\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T05:42:48.298Z",
               "EditorCaption": ""

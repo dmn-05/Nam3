@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\",
+  "WorkspaceRootPath": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|d:\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|solutionrelative:thumh_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|d:\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|solutionrelative:thumh_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|d:\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|solutionrelative:thumh_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|d:\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|solutionrelative:thumh_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|d:\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|solutionrelative:thumh_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\views\\share\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|d:\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\views\\share\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|solutionrelative:thumh_mvc\\views\\share\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\views\\share\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|d:\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\views\\share\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|solutionrelative:thumh_mvc\\views\\share\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|g:\\0306231316\\nam3\\asp.netcore\\w2\\s2\\thumh_mvc\\thumh_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4C01F72-D504-40D4-B7D9-F39D0A240E62}|ThuMH_MVC\\ThuMH_MVC.csproj|solutionrelative:thumh_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Share\\Error.cshtml",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Share\\Error.cshtml",
               "RelativeDocumentMoniker": "ThuMH_MVC\\Views\\Share\\Error.cshtml",
-              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Share\\Error.cshtml",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Share\\Error.cshtml",
               "RelativeToolTip": "ThuMH_MVC\\Views\\Share\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -54,23 +54,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Program.cs",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Program.cs",
               "RelativeDocumentMoniker": "ThuMH_MVC\\Program.cs",
-              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Program.cs",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Program.cs",
               "RelativeToolTip": "ThuMH_MVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T06:07:06.905Z"
+              "WhenOpened": "2025-09-03T06:07:06.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Share\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Share\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ThuMH_MVC\\Views\\Share\\_Layout.cshtml",
-              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Share\\_Layout.cshtml",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Share\\_Layout.cshtml",
               "RelativeToolTip": "ThuMH_MVC\\Views\\Share\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -78,11 +79,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ThuMH_MVC\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "ThuMH_MVC\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -90,11 +91,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ThuMH_MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ThuMH_MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -102,26 +103,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ThuMH_MVC\\Models\\ErrorViewModel.cs",
-              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "ThuMH_MVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T05:44:51.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T05:44:51.326Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ThuMH_MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "G:\\0306231316\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Nam3\\ASP.NETCore\\W2\\S2\\ThuMH_MVC\\ThuMH_MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ThuMH_MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T05:43:46.182Z",
               "EditorCaption": ""
