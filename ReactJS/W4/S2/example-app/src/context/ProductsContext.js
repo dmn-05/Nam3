@@ -31,7 +31,6 @@ function productsReducer(data, {type, id = null, product = null}){
         case 'show': {
             return {
                 ...data,
-                products: data.products,
                 view: 'show',
                 id: null
             }
@@ -39,7 +38,6 @@ function productsReducer(data, {type, id = null, product = null}){
         case 'create': {
             return {
                 ...data,
-                products: data.products,
                 view: 'create',
                 id: null 
             }
@@ -56,8 +54,7 @@ function productsReducer(data, {type, id = null, product = null}){
         }
         case 'edit': {
             return {
-                 ...data,
-                products: data.products,
+                ...data,
                 view: 'edit',
                 id: id
             }
@@ -65,13 +62,18 @@ function productsReducer(data, {type, id = null, product = null}){
         case 'update': {
             return {
                 ...data,
-                products: data.products,
-                view: 'update',
-                id: id
+                products: data.products.map(p=>p.id===product.id ? product : p),
+                view: 'index',
+                id: null
             }
         }
         case 'destroy': {
-            return 0;
+            return {
+                ...data,
+                products: data.products.filter(p=>p.id!==id),
+                view: 'index',
+                id: null
+            }
         }
         default: {
             throw Error('Unknown action: ' + type);

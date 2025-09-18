@@ -1,7 +1,6 @@
-// import logo from './logo.svg';
-import './App.css';
-import { ProductsProvider } from './context/ProductsContext';
-import ProductsManagement from './page/ProductsManagement';
+import React from "react";
+import { ProductsProvider } from "./context/ProductsContext";
+import {ProductsManagement} from "./page/ProductsManagement";
 
 function App() {
   return (

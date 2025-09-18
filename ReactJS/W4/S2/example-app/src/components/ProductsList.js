@@ -4,10 +4,10 @@ export default function ProductsList(){
     const data = useProducts();
     const dispatch = useProductsDispatch();
     function onEdit(product){
-        return 0;
+        dispatch({type: "edit", id: product.id})
     }
     function onDelete(product){
-        return 0;
+        dispatch({type: "destroy", id: product.id})
     }   
     function onCreate(product){
         dispatch({type: 'create'});
@@ -28,20 +28,26 @@ export default function ProductsList(){
                     <th>Tên sản phẩm</th>
                     <th>Giá</th>
                     <th>Mô tả</th>
+                    <th>Hành vi</th>
                     </tr>
                 </thead>
                 <tbody>
                     {data.products.map((p)=>(
-                        <tr key={p.id}>
-                            <td>{p.id}</td>
-                            <td>{p.name}</td>
-                            <td>{p.price}</td>
-                            <td>{p.desc}</td>
-                        </tr>
+                    <tr key={p.id}>
+                        <td>{p.id}</td>
+                        <td>{p.name}</td>
+                        <td>{p.price}</td>
+                        <td>{p.desc}</td>
+                        <td>
+                            <button onClick={() => onEdit(p)}>Sửa</button>
+                            <button onClick={() => onDelete(p)}>Xóa</button>
+                        </td>
+                    </tr>
                     ))}
                 </tbody>
                 </table>
             }
+            <button onClick={onCreate}>Thêm sản phẩm</button>
         </>
     )
 }
