@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Product Table</title>
+    <style>
+      
+    </style>
+  </head>
+  <body>
+    <h2>Danh sách sản phẩm</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Tên sản phẩm</th>
+          <th>Giá ($)</th>
+          <th>Giảm giá (%)</th>
+          <th>Đánh giá</th>
+          <th>Tồn kho</th>
+          <th>Thương hiệu</th>
+          <th>Chính sách đổi trả</th>
+          <th>Ảnh</th>
+          <th>Sửa</th>
+          <th>Xóa</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Essence Mascara Lash Princess</td>
+          <td>9.99</td>
+          <td>10.48</td>
+          <td>2.56</td>
+          <td>99</td>
+          <td>Essence</td>
+          <td>No return policy</td>
+          <td>
+            <img
+              src="https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+              alt="Mascara"
+            />
+          </td>
+          <td>
+            <button onclick="Sua()">Sửa</button>
+          </td>
+          <td>
+            <button onclick="Xoa()">Xóa</button>
+          </td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>
+            <button onclick="them()">Thêm</button>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>
+
+
+<>
+              {products.map((pro, index) => (
+                <p key={index}>{JSON.stringify(pro)}</p>
+              ))}
+            </>

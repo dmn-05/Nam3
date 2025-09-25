@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nam3\\ASP.NETCore\\W4\\01_DI\\01_DI\\01_DI.csproj": {}
+    "D:\\Nam3\\ASP.NETCore\\W3\\S2\\01_DI\\01_DI\\01_DI.csproj": {}
   },
   "projects": {
-    "D:\\Nam3\\ASP.NETCore\\W4\\01_DI\\01_DI\\01_DI.csproj": {
+    "D:\\Nam3\\ASP.NETCore\\W3\\S2\\01_DI\\01_DI\\01_DI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nam3\\ASP.NETCore\\W4\\01_DI\\01_DI\\01_DI.csproj",
+        "projectUniqueName": "D:\\Nam3\\ASP.NETCore\\W3\\S2\\01_DI\\01_DI\\01_DI.csproj",
         "projectName": "01_DI",
-        "projectPath": "D:\\Nam3\\ASP.NETCore\\W4\\01_DI\\01_DI\\01_DI.csproj",
+        "projectPath": "D:\\Nam3\\ASP.NETCore\\W3\\S2\\01_DI\\01_DI\\01_DI.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "D:\\Nam3\\ASP.NETCore\\W4\\01_DI\\01_DI\\obj\\",
+        "outputPath": "D:\\Nam3\\ASP.NETCore\\W3\\S2\\01_DI\\01_DI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
